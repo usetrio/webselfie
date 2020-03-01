@@ -2,7 +2,7 @@
 This application is used to generate screenshots of websites based on provided URLs, returning images of the pages
 
 # Requirements
-- Java
+- Java 8
 - Maven
 - Google Chrome
 - PostgreSQL instance listening on port 5432 (you must create a database named **webselfie**, you can modify database properties in the **application.properties** file, located in '/src/main/resources')
